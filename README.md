@@ -31,6 +31,7 @@ Ruby 3.1.3
 Rails 7.1.3.2
 
 rails new tweeter -ccs bootstrap
+
 rails css:install:bootstrap
 
 rails g scaffold Tweet body:string likes:integer retweets:integer
