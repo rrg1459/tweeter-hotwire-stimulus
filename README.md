@@ -1,6 +1,4 @@
-# README
-
-## hotwire stimumlus
+# hotwire stimumlus
 
 https://www.youtube.com/watch?v=Qp6sxgjA-xY&ab_channel=GoRails
 
